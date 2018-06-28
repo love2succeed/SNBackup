@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-28 02:03:18</sys_created_on>
+        <sys_id>d070191cdb0753008e7ae04a4896197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_71645_git_backup_backup_table.x_71645_git_backup.backup_table_user</sys_name>
+        <sys_package display_value="Git Backup" source="x_71645_git_backup">4d4fc518db0753008e7ae04a489619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Backup">4d4fc518db0753008e7ae04a489619c1</sys_scope>
+        <sys_security_acl display_value="x_71645_git_backup_backup_table">5470191cdb0753008e7ae04a48961978</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d070191cdb0753008e7ae04a4896197c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-28 02:03:18</sys_updated_on>
+        <sys_user_role display_value="x_71645_git_backup.backup_table_user" name="x_71645_git_backup.backup_table_user">3b60511cdb0753008e7ae04a48961964</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

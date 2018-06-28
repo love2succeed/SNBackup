@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Backup Table" max_length="40" name="x_71645_git_backup_backup_table" type="collection">
+        <element label="Created" max_length="40" name="created" type="glide_date_time"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Value" max_length="40" name="value" type="string"/>
+    </element>
+</database>
